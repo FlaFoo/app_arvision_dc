@@ -1,0 +1,24 @@
+{
+  "code": "TEST-01",
+  "name": "Projet de test AR MEP",
+  "version": 1,
+  "updatedAt": "2026-03-15",
+  "metiers": ["CVC", "ELEC", "PLB"],
+  "models": [
+    {
+      "filename": "TEST-01-CVC-2196F3.glb",
+      "metier": "CVC",
+      "color": "2196F3"
+    },
+    {
+      "filename": "TEST-01-ELEC-FFC107.glb",
+      "metier": "ELEC",
+      "color": "FFC107"
+    },
+    {
+      "filename": "TEST-01-PLB-4CAF50.glb",
+      "metier": "PLB",
+      "color": "4CAF50"
+    }
+  ]
+}
